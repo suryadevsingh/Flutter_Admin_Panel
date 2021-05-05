@@ -1,16 +1,30 @@
-# adminpanel
+# Flutter Admin panel or Dashboard sample 
+## Adaptive layout
 
-Flutter Responsive Admin Panel or Dashboard 
+# Live
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<a href="https://workshop-eb216.web.app">Dashboard_sample</a>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Screenshots 
+ 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ # Mobile View 
+<p>
+      <img src="https://github.com/suryadevsingh/Flutter_Admin_Panel/blob/master/assets/screenshots/dashboard.gif" alt="Dashboard_sample.com">
+  </p>
+  
+ # Web View 
+ <p>
+      <img src="https://github.com/suryadevsingh/Flutter_Admin_Panel/blob/master/assets/screenshots/dashboard1.png" alt="Dashboard_sample.com">
+  
+ </p>
+
+ # Tablet View 
+ <p>
+      <img src="https://github.com/suryadevsingh/Flutter_Admin_Panel/blob/master/assets/screenshots/dashboard2.png" alt="Dashboard_sample.com">
+  
+ </p>
+
+
