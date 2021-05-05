@@ -1,11 +1,11 @@
 import 'package:adminpanel/constants.dart';
+import 'package:adminpanel/responsive.dart';
 import 'package:flutter/material.dart';
 
-import 'MyField.dart';
-import 'header.dart';
-import 'recent_Files.dart';
-import 'responsive.dart';
-import 'storage_Details.dart';
+import 'components/MyField.dart';
+import 'components/header.dart';
+import 'components/recent_Files.dart';
+import 'components/storage_Details.dart';
 
 class DashboardScreen extends StatelessWidget {
   const DashboardScreen({Key key}) : super(key: key);

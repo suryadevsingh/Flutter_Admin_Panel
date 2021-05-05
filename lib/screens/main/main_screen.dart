@@ -1,9 +1,10 @@
-import 'package:adminpanel/MenuController.dart';
+import 'package:adminpanel/controllers/MenuController.dart';
 import 'package:adminpanel/responsive.dart';
+import 'package:adminpanel/screens/dashboard/dashboard_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'dashboard_screen.dart';
-import 'side_menu.dart';
+
+import 'components/side_menu.dart';
 
 class MainScreen extends StatelessWidget {
   const MainScreen({Key key}) : super(key: key);

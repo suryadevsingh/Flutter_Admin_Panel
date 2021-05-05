@@ -1,8 +1,8 @@
+import 'package:adminpanel/constants.dart';
 import 'package:flutter/material.dart';
 
 import 'StorageInfoCard.dart';
 import 'chart.dart';
-import 'constants.dart';
 
 class StorageDetails extends StatelessWidget {
   const StorageDetails({Key key}) : super(key: key);
